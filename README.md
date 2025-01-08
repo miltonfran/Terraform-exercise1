@@ -109,3 +109,4 @@ Create Security Group<br/>
 - Plan Deployment
 - Apply Configuration
 <img src="https://res.cloudinary.com/dk3bkl3ji/image/upload/v1736318734/Screenshot_2025-01-07_141231_r4opzj.png"/>
+<img src="https://res.cloudinary.com/dk3bkl3ji/image/upload/v1736354602/Screenshot_2025-01-07_141718_mvzpg1.png"/>
